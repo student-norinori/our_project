@@ -1,3 +1,3 @@
 # our_project
-nobita
+nobita　shizuka
 person:al lesson
