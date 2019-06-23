@@ -1,3 +1,3 @@
 # our_project
-hsizuka
-personal lesson
+nobita　shizuka
+person:al lesson
